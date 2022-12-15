@@ -10,7 +10,7 @@ These tools are intended to facilitate end-user experience in OCI and ADBS.
 
 ## Installation <a name='installation'></a>
 
-ADBS Cost-Usage Management Analytics APEX application installation [ADBS_Cost-Usage_Management_Analytics_InstallGuide] [1]
+ADBS Cost-Usage Management Analytics APEX application installation [ADBS_Cost-Usage_Management_Analytics_InstallGuide] (https://github.com/oracle-samples/adbs-tools/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf)
 
 Workload Analytics & Reports application installation [Workload Analytics & Reports (WAR) Installation Guide] [2]
 
