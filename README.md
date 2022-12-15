@@ -24,6 +24,7 @@ Please consult the [security guide][3] for our responsible security vulnerabilit
 ## License <a name='license'></a>
 adbs-tools is licensed under UPL License which you can find [here][4]
 
+
 [1]: https://github.com/oracle-samples/adbs-tools/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf
 [2]: https://github.com/oracle-samples/adbs-tools/WAR/Workload Analytics & Reports (WAR) Installation Guide.pdf
 [3]: https://github.com/oracle-samples/adbs-tools/SECURITY.md
