@@ -1,9 +1,9 @@
 # adbs-tools
 
-`adbs-tools` is the repository for Autonomous Database Shared (ADBS) tools built by ADBS engineering.
+`adbs-tools` is the repository for Autonomous Database Shared (ADBS) tools and applications built by ADBS engineering. 
 These tools are intended to facilitate end-user experience in OCI and ADBS.
 
-## Current applications are:
+## Current tools / applications are:
 
 ##### ADBS Cost-Usage Management Analytics APEX (ACUMAA) application
 ##### Workload Analytics & Reports (WAR)
