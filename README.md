@@ -22,9 +22,4 @@ This project is not accepting contributions at this time
 Please consult the [security guide](https://github.com/oracle-samples/adbs-tools/SECURITY.md) for our responsible security vulnerability disclosure process.
 
 ## License <a name='license'></a>
-adbs-tools is licensed under UPL License which you can find [here](https://github.com/oracle-samples/adbs-tools/LICENSE.txt)
-<<<<<<< HEAD
-=======
-
->>>>>>> 7932deda5bb92e515900e71da61883f68e9ff011
-
+adbs-tools is licensed under Universal Permissive License (UPL) which you can find [here](https://github.com/oracle-samples/adbs-tools/LICENSE.txt)
