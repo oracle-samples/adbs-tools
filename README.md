@@ -5,8 +5,8 @@ These tools are intended to facilitate end-user experience in OCI and ADBS.
 
 ## Current tools / applications are:
 
-##### ADBS Cost-Usage Management Analytics APEX (ACUMAA) application
-##### Workload Analytics & Reports (WAR)
+##### ADBS Cost-Usage Management Analytics APEX (ACUMAA) APEX application
+##### Workload Analytics & Reports (WAR) APEX application
 
 ## Installation <a name='installation'></a>
 
