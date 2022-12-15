@@ -1,6 +1,6 @@
 # adbs-tools
 
-`adbs-tools` is the repository for Autonomous Database Shared (ADBS) tools which include APEX applications built by ADBS engineering.
+`adbs-tools` is the repository for Autonomous Database Shared (ADBS) tools built by ADBS engineering.
 These tools are intended to facilitate end-user experience in OCI and ADBS.
 
 ## Current applications are:
@@ -12,7 +12,7 @@ These tools are intended to facilitate end-user experience in OCI and ADBS.
 
 ADBS Cost-Usage Management Analytics APEX application installation [ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf](https://github.com/oracle-samples/adbs-tools/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf)
 
-Workload Analytics & Reports application installation [Workload Analytics & Reports (WAR) Installation Guide](https://github.com/oracle-samples/adbs-tools/WAR/Workload Analytics & Reports (WAR) Installation Guide.pdf)
+Workload Analytics & Reports application installation [Workload Analytics & Reports (WAR) Installation Guide.pdf](https://github.com/oracle-samples/adbs-tools/WAR/Workload Analytics & Reports (WAR) Installation Guide.pdf)
 
 ## Contributing  <a name='contributing'></a>
 
