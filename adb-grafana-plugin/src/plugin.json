@@ -18,12 +18,12 @@
     },
     "links": [
       {
-        "name": "Website",
-        "url": "https://github.com/grafana/grafana-starter-datasource"
+        "name": "Github",
+        "url": "https://github.com/oracle-samples/adbs-tools/tree/main/adb-grafana-plugin"
       },
       {
         "name": "License",
-        "url": "https://github.com/grafana/grafana-starter-datasource/blob/master/LICENSE"
+        "url": "https://github.com/oracle-samples/adbs-tools/blob/main/adb-grafana-plugin/LICENSE"
       }
     ],
     "screenshots": [
