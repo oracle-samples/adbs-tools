@@ -67,7 +67,7 @@ The steps for this will be added once it is approved.
 
 
 ## Code link
-https://github.com/oracle-samples/adbs-tools/tree/adb-plugin/adb-grafana-plugin (will update with main branch after merging)
+https://github.com/oracle-samples/adbs-tools/tree/main/adb-grafana-plugin
 
 ## Future works
 * PACKAGING OF PLUGIN
