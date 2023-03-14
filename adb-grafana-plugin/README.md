@@ -80,9 +80,16 @@ https://github.com/oracle-samples/adbs-tools/tree/main/adb-grafana-plugin
 
    * Need following latest packages:
       * go       :  https://golang.org/
+        * The package needs Grafana plugin SDK for Go as per dependency. Include it using this commands in the plugin code
+                ```go get -u github.com/grafana/grafana-plugin-sdk-go``` and
+                ```go mod tidy```
       * npx      :  https://www.npmjs.com/package/npx
       * yarn     :  https://classic.yarnpkg.com/en/docs/install
+        * To build frontend yarn is used. The commands for them are
+                ```yarn install``` and 
+                ```yarn build```
       * mage     :  https://magefile.org/
+        * To build backend mage is used, Run ```mage -v``` to get all the executables in dist directory
       * docker   :  https://docs.docker.com/engine/install/
 
    * Please refer to https://grafana.com/tutorials/build-a-data-source-backend-plugin/ for the commands.
