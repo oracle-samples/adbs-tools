@@ -40,7 +40,7 @@ The steps for this will be added once it is approved.
 * Click on `Save&Test` to test connectivity to the ADB with the configuration you added. It prompts `Datasoure is working` message if the connection is reachable.
 
 
-*   ![Config page](src/img/config.png)
+*   ![Config page](https://github.com/oracle-samples/adbs-tools/raw/main/adb-grafana-plugin/src/img/config.png)
 
 
 
@@ -50,17 +50,17 @@ The steps for this will be added once it is approved.
 
 * For timeseries data you can use `$timefilter(timecolumname)` for  timestamp or date type data to query the data for a period of timespan selected in grafana-page.
 
-*   ![Config page](src/img/query1.png)
+*    ![Query 1](https://github.com/oracle-samples/adbs-tools/raw/main/adb-grafana-plugin/src/img/query1.png)
 
 *  You can add multiple queries in the same panel.
 
 * You can use `$timefilter_tz(timecolumnname)` for timestamp with time zone datatype for same purpose. 
 
-*   ![Config page](src/img/query3.png)
+*   ![Query 3](https://github.com/oracle-samples/adbs-tools/raw/main/adb-grafana-plugin/src/img/query3.png)
 
 * You can query for `non-timeseries` data too to show it on table.
 
-*   ![Config page](src/img/query2.png)
+*   ![Query 2](https://github.com/oracle-samples/adbs-tools/raw/main/adb-grafana-plugin/src/img/query2.png)
 
 * Save the Panel to your Dashboard. 
 
