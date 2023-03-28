@@ -10,7 +10,7 @@ These tools are intended to facilitate end-user experience in OCI and ADBS.
 
 ## Installation
 
-[ADBS Cost-Usage Management Analytics InstallGuide](https://github.com/oracle-samples/adbs-tools/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf)
+[ADBS Cost-Usage Management Analytics InstallGuide](https://github.com/oracle-samples/adbs-tools/blob/main/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf))
 
 [Workload Analytics Reports InstallGuide](https://github.com/oracle-samples/adbs-tools/WAR/Workload_Analytics_Reports_InstallGuide.pdf)
 
