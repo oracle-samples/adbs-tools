@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "datasource",
   "name": "Autonomous Database",
-  "id": "oracle-adb-datasource",
+  "id": "adbs-oracle-datasource",
   "metrics": true,
   "backend": true,
   "executable": "gpx_oracle_adb",
