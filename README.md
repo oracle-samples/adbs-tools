@@ -1,25 +1,24 @@
 # adbs-tools
 
-`adbs-tools` is the repository for Autonomous Database Shared (ADBS) tools and applications built by ADBS engineering. 
+`adbs-tools` is the repository for Autonomous Database Serverless (ADBS) tools and applications created and maintained by ADBS engineering. 
 These tools are intended to facilitate end-user experience in OCI and ADBS.
 
-## Current tools / applications are:
+## ADB App Store
+The ADB App Store is an application launchpad for ADBS Engineering curated applications. Using the ADB App Store, tenants can install and manage the life cycle of ADBS Engineering supplied applications. The available applcations which can be deployed using the ADB App Store include:
 
-##### ADBS Cost-Usage Management Analytics APEX (ACUMAA) APEX application
-##### Workload Analytics & Reports (WAR) APEX application
+### ADB Cost-Usage Management Analytics application
+### Workload Analytics & Reports (WAR) application
 
-## Installation
+## Installation <a name='installation'></a>
 
-[ADBS Cost-Usage Management Analytics InstallGuide](https://github.com/oracle-samples/adbs-tools/blob/main/ACUMAA/ADBS_Cost-Usage_Management_Analytics_InstallGuide.pdf)
+[ADB App Store Installation Guide](https://github.com/oracle-samples/adbs-tools/AppStore/ADB_AppStore_InstallGuide.pdf)
 
-[Workload Analytics Reports InstallGuide](https://github.com/oracle-samples/adbs-tools/blob/main/WAR/Workload_Analytics_Reports_InstallGuide.pdf)
+## Contributing  <a name='contributing'></a>
 
-## Contributing
+This project is not accepting contributions at this time
 
-This project is not accepting external contributions at this time. For bugs or enhancement requests, please file a GitHub issue unless it’s security related. When filing a bug remember that the better written the bug is, the more likely it is to be fixed. If you think you’ve found a security vulnerability, do not raise a GitHub issue and follow the instructions in our [security policy](./SECURITY.md).
-
-## Security
+## Security <a name='security'></a>
 Please consult the [security guide](https://github.com/oracle-samples/adbs-tools/SECURITY.md) for our responsible security vulnerability disclosure process.
 
-## License
+## License <a name='license'></a>
 adbs-tools is licensed under Universal Permissive License (UPL) which you can find [here](https://github.com/oracle-samples/adbs-tools/LICENSE.txt)
