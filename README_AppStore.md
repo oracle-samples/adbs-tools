@@ -3,10 +3,10 @@
 `adbs-tools` is the repository for Autonomous Database Serverless (ADBS) tools and applications created and maintained by ADBS engineering. 
 These tools are intended to facilitate end-user experience in OCI and ADBS.
 
-## ADBS App Store
-The ADBS App Store is an application launchpad for ADBS Engineering curated applications. Using the ADB App Store, tenants can install and manage the life cycle of ADBS Engineering supplied applications. The available applcations which can be deployed using the ADB App Store include:
+## ADB App Store
+The ADB App Store is an application launchpad for ADBS Engineering curated applications. Using the ADB App Store, tenants can install and manage the life cycle of ADBS Engineering supplied applications. The available applcations which can be deployed using the ADB App Store include:
 
-### ADBS Cost-Usage Management Analytics application
+### ADB Cost-Usage Management Analytics application
 ### Workload Analytics & Reports (WAR) application
 
 ## Installation <a name='installation'></a>
