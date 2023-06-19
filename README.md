@@ -11,7 +11,7 @@ The ADB App Store is an application launchpad for ADBS Engineering curated appli
 
 ## Installation <a name='installation'></a>
 
-[ADB App Store Installation Guide](https://github.com/oracle-samples/adbs-tools/AppStore/ADB_AppStore_InstallGuide.pdf)
+[ADB App Store Installation Guide](https://github.com/oracle-samples/adbs-tools/ADB_AppStore_InstallGuide.pdf)
 
 ## Contributing  <a name='contributing'></a>
 
