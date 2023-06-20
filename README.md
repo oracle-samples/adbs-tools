@@ -8,10 +8,11 @@ The ADB App Store is an application launchpad for ADBS Engineering curated appli
 
 ### ADB Cost-Usage Management Analytics application
 ### Workload Analytics & Reports (WAR) application
+### Visual Data Studio
 
 ## Installation <a name='installation'></a>
 
-[ADB App Store Installation Guide](https://github.com/oracle-samples/adbs-tools/[AppStore_installation_Guide_v1.1.pdf)
+[ADB App Store Installation Guide](https://github.com/oracle-samples/adbs-tools/AppStore_installation_Guide_v1.2.pdf)
 
 ## Contributing  <a name='contributing'></a>
 
