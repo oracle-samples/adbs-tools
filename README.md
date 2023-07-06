@@ -12,7 +12,7 @@ The ADB App Store is an application launchpad for ADBS Engineering curated appli
 
 ## Installation <a name='installation'></a>
 
-[ADB App Store Installation Guide](AppStore_Installation_Guide_v1.2.pdf)
+CLI Install step-by-step to be added here.
 
 ## Contributing  <a name='contributing'></a>
 
