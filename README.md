@@ -11,12 +11,13 @@ The ADB App Store is an application launchpad for Oracle supported applications.
     Visual Data Studio                              - Visualization tool for analytics data
 
 ## ADB App Store Installation <a name='installation'></a>
-Oracle provides the following supporting scripts:
-- adb_app_store_install.sql
-- adb_app_store_get_URL.sql
-- adb_app_store_check_jobs.sql
-- adb_app_store_uninstall.sql
-- adb_app_store_workspace_uninstall.sql
+Oracle provides the following supported scripts:
+
+    adb_app_store_install.sql                      - ADB App Store installation script
+    adb_app_store_get_URL.sql                      - ADB App Store get application URL
+    adb_app_store_check_jobs.sql                   - Check OCI Cost & Usage application scheduled jobs
+    adb_app_store_uninstall.sql                    - ADB App Store uninstall script
+    adb_app_store_workspace_uninstall.sql          - ADB App Store APEX workspace uninstall script
 
 To install the ADB App Store, download the adb_app_store_install.sql and execute as the database ADMIN in your ADB-S database. To identify the application URL execute adb_app_store_get_URL.sql
 
