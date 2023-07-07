@@ -22,13 +22,13 @@ Oracle provides the following supported scripts:
 To install the ADB App Store, download the adb_app_store_install.sql and execute as the database ADMIN in your ADB-S database. To identify the application URL execute adb_app_store_get_URL.sql
 
 ### ADB App Store Installation Pre-requisites
-The ADB App Store leverages a new default database user "ADB_APP_STORE" which exists in all Autonomous Database Serverless (ADBS) databases. The ADB_APP_STORE user has the necessary privileges to install other Oracle supplied ADB-S applications. This user account needs to be unlocked and the password reset:
+The ADB App Store leverages a new default database user "ADB_APP_STORE" which exists in all Autonomous Database Serverless (ADB-S) databases. The ADB_APP_STORE user has the necessary privileges to install other Oracle supplied ADB-S applications. This user account needs to be unlocked and the password reset:
 
     alter user ADB_APP_STORE account unlock;
     alter user ADB_APP_STORE identified by <new password>;
 
 ### ADB App Store Supported Application Installation
-Once the ADB App Store is successfully installed, access the URL returned from the adb_app_store_get_URL.sql. Use the ADB_APP_STORE user credentials with the password you defined as described in the Pre-requisites above. The ADB App Store should return this page:
+Once the ADB App Store installation SQL successfully executes and the application is installed, access the URL returned from the adb_app_store_get_URL.sql. Use the ADB_APP_STORE user credentials with the password you defined as described in the Pre-requisites above. The ADB App Store should return this page:
 
 ![image](https://github.com/oracle-samples/adbs-tools/assets/8619317/6a643ae0-ff93-4736-8123-fa4224aa7425)
 Clicking on any of the ADB App Cards will give you a description of the application with screen shots, installation instructions, application pre-requisites and the INSTALL button. For example, clicking on the OCI Cost & Usage Analytics ADB App card returns:
