@@ -36,9 +36,20 @@ Clicking on any of the ADB App Cards will give you a description of the applicat
 
 ![image](https://github.com/oracle-samples/adbs-tools/assets/8619317/361783aa-0056-43c6-8536-4793804050fb)
 
+### Supported SQL Clients
+SQL*Plus, 
+SQL Developer, 
+SQLcl, 
+SQL Developer Web
 
+In SQL*Plus, SQL Developer and SQLcl execute:
 
+    set define off;
+    @<local_file_path>/adb_app_store_installation.sql
+#### NOTE: 
+In the Oracle SQL Developer Web client we can't use "@" symbol to run the sql file. Instead, open a new worksheet and paste the contents of the downloaded file. Click on "Run Script" to install the app.
 
+![image](https://github.com/oracle-samples/adbs-tools/assets/8619317/b367baba-1a6f-4c3f-86b1-d280bad35777)
 
 ## Contributing  <a name='contributing'></a>
 
