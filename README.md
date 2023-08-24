@@ -10,7 +10,7 @@ The ADB App Store is an application launchpad for Oracle supported applications.
     Workload Analytics & Reports (WAR) application  - Data analysis and visualization tool for Automatic Workload Repository
     Visual Data Studio                              - Visualization tool for analytics data
 
-## ADB App Store Installation <a name='installation'></a>
+## Installation
 Oracle provides the following supported scripts:
 
     adb_app_store_install.sql                      - ADB App Store installation script
@@ -51,12 +51,17 @@ In the Oracle SQL Developer Web client we can't use "@" symbol to run the sql fi
 
 ![image](https://github.com/oracle-samples/adbs-tools/assets/8619317/b367baba-1a6f-4c3f-86b1-d280bad35777)
 
-## Contributing  <a name='contributing'></a>
+## Contributing
 
-This project is not accepting contributions at this time
+This project is not accepting external contributions at this time. For bugs or enhancement requests, please file a GitHub issue unless it’s security related. When filing a bug remember that the better written the bug is, the more likely it is to be fixed. If you think you’ve found a security vulnerability, do not raise a GitHub issue and follow the instructions in our [security policy](./SECURITY.md).
 
-## Security <a name='security'></a>
-Please consult the [security guide](https://github.com/oracle-samples/adbs-tools/SECURITY.md) for our responsible security vulnerability disclosure process.
+## Security
 
-## License <a name='license'></a>
-adbs-tools is licensed under Universal Permissive License (UPL) which you can find [here](https://github.com/oracle-samples/adbs-tools/LICENSE.txt)
+Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+
+## License
+
+Copyright (c) 2022, 2023 year Oracle and/or its affiliates.
+
+Released under the Universal Permissive License v1.0 as shown at
+<https://oss.oracle.com/licenses/upl/>.
