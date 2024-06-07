@@ -1,4 +1,4 @@
-# adbs-tools
+# Autonoumous Database Sample Code
 
 `adbs-tools` is the repository for Oracle supported Autonomous Database Serverless (ADB-S) tools and applications. 
 These tools are intended to enhance and facilitate end-user experience in OCI and ADB-S.
